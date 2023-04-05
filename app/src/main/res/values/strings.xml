@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QUIZ APPLICATION</string>
+    <string name="Question">QUESTION</string>
+    <string name="btnAnsA">Ans A</string>
+    <string name="btnAnsB">Ans B</string>
+    <string name="btnAnsC">Ans C</string>
+    <string name="btnAnsD">Ans D</string>
+    <string name="txtQuestions">QUESTIONS</string>
+    <string name="Submit">Submit</string>
+    <string name="btnGoToQuiz">GO TO QUIZ</string>
+    <string name="btnIntent">RESTART</string>
+    <string name="btnNextQuestion">NEXT</string>
+    <string name="btnResults">NEXT QUESTION</string>
+    <string name="txtPageTitle">RESULTS PAGE</string>
+    <string name="txtCounter">0/0</string>
+    <string name="btnQuit">QUIT</string>
+    <string name="txtResultsView">This is your result</string>
+</resources>
